@@ -1,0 +1,1 @@
+# solr-schema-to-es
